@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name">Dieta</string>
+    <string name="title_activity_diet">Mi dieta</string>
+    <string name="title_section_db">DB</string>
+    <string name="title_section_intent">Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Bienvenido</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="next">Siguiente</string>
+    <string name="title_activity_inputs">Inputs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dialog_message">Complete todos los campos</string>
+    <string name="title_dialog">Cuidado</string>
+    <string name="title_input">Ingrese sus datos</string>
+    <string name="hint_name">Ingrese su nombre</string>
+    <string name="hint_years">Ingrese su edad</string>
+    <string name="hint_weight">Ingrese su peso</string>
+    <string name="hint_height">Ingrese su altura</string>
+    <string name="lose_weight">Perder peso</string>
+    <string name="gain_weight">Ganar peso</string>
+
+</resources>
