@@ -14,6 +14,9 @@ SharedPreferences:
   *La idea es que permita saltear las dos primeras paginas (Bienvenida y Carga de datos del usuario) para asi no se le vuelve a preguntar a no ser que decida cargar una nueva dieta.
   *En caso de que decida cargar una nueva dieta podría ya mantener datos como el nombres, peso y otros y darle la opciones de modificarlos.
   
+Actionbar:
+  *Agregarle las acciones que correspondan, ya sea configurar, buscar, nueva dieta, etc.
+  
 Logica:
   *Andar pensando como definiriamos los parametros indicados por el usuario para determinar tal o cual dieta.
   *Pensar como mostrar las comidas que ya tuvo y de esa manera actualizar la barra porcentual
